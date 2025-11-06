@@ -1,0 +1,18 @@
+h1
+{
+    color:yellow;
+    text-align: center;
+    background-color: black;
+    font-size: 40px;
+    font-style: italic;
+}
+p{
+    font-size: 20px;
+    text-decoration: wavy;
+    color: red;
+    background-color: black;
+    font-style: oblique;
+}
+body{
+    background-color: rgb(3, 65, 65);
+}
